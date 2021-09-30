@@ -1,0 +1,17 @@
+C:\Users\alext\source\repos\Actividad_10\Actividad_10\Actividad_10\bin\Debug\netstandard2.0\Actividad_10.deps.json
+C:\Users\alext\source\repos\Actividad_10\Actividad_10\Actividad_10\bin\Debug\netstandard2.0\Actividad_10.dll
+C:\Users\alext\source\repos\Actividad_10\Actividad_10\Actividad_10\bin\Debug\netstandard2.0\ref\Actividad_10.dll
+C:\Users\alext\source\repos\Actividad_10\Actividad_10\Actividad_10\bin\Debug\netstandard2.0\Actividad_10.pdb
+C:\Users\alext\source\repos\Actividad_10\Actividad_10\Actividad_10\obj\Debug\netstandard2.0\Actividad_10.csproj.AssemblyReference.cache
+C:\Users\alext\source\repos\Actividad_10\Actividad_10\Actividad_10\obj\Debug\netstandard2.0\Actividad_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alext\source\repos\Actividad_10\Actividad_10\Actividad_10\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\alext\source\repos\Actividad_10\Actividad_10\Actividad_10\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\alext\source\repos\Actividad_10\Actividad_10\Actividad_10\obj\Debug\netstandard2.0\Actividad_10.AssemblyInfoInputs.cache
+C:\Users\alext\source\repos\Actividad_10\Actividad_10\Actividad_10\obj\Debug\netstandard2.0\Actividad_10.AssemblyInfo.cs
+C:\Users\alext\source\repos\Actividad_10\Actividad_10\Actividad_10\obj\Debug\netstandard2.0\Actividad_10.csproj.CoreCompileInputs.cache
+C:\Users\alext\source\repos\Actividad_10\Actividad_10\Actividad_10\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\alext\source\repos\Actividad_10\Actividad_10\Actividad_10\obj\Debug\netstandard2.0\Actividad_10.dll
+C:\Users\alext\source\repos\Actividad_10\Actividad_10\Actividad_10\obj\Debug\netstandard2.0\ref\Actividad_10.dll
+C:\Users\alext\source\repos\Actividad_10\Actividad_10\Actividad_10\obj\Debug\netstandard2.0\Actividad_10.pdb
+C:\Users\alext\source\repos\Actividad_10\Actividad_10\Actividad_10\obj\Debug\netstandard2.0\Vistas\NuevoPage.xaml.g.cs
+C:\Users\alext\source\repos\Actividad_10\Actividad_10\Actividad_10\obj\Debug\netstandard2.0\Vistas\PersonasPage.xaml.g.cs
